@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#D97757"/>
+  <g fill="none" stroke="#1B1A17" stroke-linecap="round">
+    <g stroke-width="13" opacity="0.55">
+      <path d="M238 122 Q 312 120 348 156"/>
+      <path d="M348 156 Q 404 196 424 256"/>
+    </g>
+    <g stroke-width="24">
+      <path d="M168 360 Q 176 206 238 122"/>
+      <path d="M168 360 Q 248 232 348 156"/>
+      <path d="M168 360 Q 300 304 424 256"/>
+    </g>
+  </g>
+  <g fill="#1B1A17">
+    <circle cx="238" cy="122" r="27"/>
+    <circle cx="348" cy="156" r="27"/>
+    <circle cx="424" cy="256" r="27"/>
+  </g>
+  <circle cx="168" cy="360" r="40" fill="#F4ECE2"/>
+</svg>
